@@ -1,4 +1,4 @@
-package com.appstarter;
+package com.rnappstarter;
 
 import android.app.Application;
 

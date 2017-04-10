@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "appStarter.app"
-               BlueprintName = "appStarter"
-               ReferencedContainer = "container:appStarter.xcodeproj">
+               BuildableName = "RNAppStarter.app"
+               BlueprintName = "RNAppStarter"
+               ReferencedContainer = "container:RNAppStarter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "appStarterTests.xctest"
-               BlueprintName = "appStarterTests"
-               ReferencedContainer = "container:appStarter.xcodeproj">
+               BuildableName = "RNAppStarterTests.xctest"
+               BlueprintName = "RNAppStarterTests"
+               ReferencedContainer = "container:RNAppStarter.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "appStarterTests.xctest"
-               BlueprintName = "appStarterTests"
-               ReferencedContainer = "container:appStarter.xcodeproj">
+               BuildableName = "RNAppStarterTests.xctest"
+               BlueprintName = "RNAppStarterTests"
+               ReferencedContainer = "container:RNAppStarter.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "appStarter.app"
-            BlueprintName = "appStarter"
-            ReferencedContainer = "container:appStarter.xcodeproj">
+            BuildableName = "RNAppStarter.app"
+            BlueprintName = "RNAppStarter"
+            ReferencedContainer = "container:RNAppStarter.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "appStarter.app"
-            BlueprintName = "appStarter"
-            ReferencedContainer = "container:appStarter.xcodeproj">
+            BuildableName = "RNAppStarter.app"
+            BlueprintName = "RNAppStarter"
+            ReferencedContainer = "container:RNAppStarter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "appStarter.app"
-            BlueprintName = "appStarter"
-            ReferencedContainer = "container:appStarter.xcodeproj">
+            BuildableName = "RNAppStarter.app"
+            BlueprintName = "RNAppStarter"
+            ReferencedContainer = "container:RNAppStarter.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
