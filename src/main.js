@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
 
-import Welcome from './components/welcome';
+import { LoginState } from './views';
 
 class App extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Welcome
-                    message='Welcome to React-Native world'
+                <LoginState
+                    message='About to start log in page'
                 />
             </View>
         );
