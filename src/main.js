@@ -1,14 +1,17 @@
 import React, { Component } from 'react';
 import { View, StyleSheet } from 'react-native';
 
-import { LoginState } from './views';
+import { LoginMobx } from './views';
+
+import AuthStore from './mobx/auth_store';
 
 class App extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <LoginState
+                <LoginMobx
                     message='About to start log in page'
+                    store={AuthStore}
                 />
             </View>
         );
