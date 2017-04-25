@@ -1,4 +1,4 @@
-package com.rnappstarter;
+package com.rnauthentication;
 
 import android.app.Application;
 

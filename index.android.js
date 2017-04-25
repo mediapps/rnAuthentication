@@ -10,4 +10,4 @@ import {
 
 import App from './src/main';
 
-AppRegistry.registerComponent('RNAppStarter', () => App);
+AppRegistry.registerComponent('rnAuthentication', () => App);
