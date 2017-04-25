@@ -1,21 +1,16 @@
 import React, { Component } from 'react';
-import { StyleSheet } from 'react-native';
-import { Provider } from 'react-redux';
+import { View, StyleSheet } from 'react-native';
 
-
-import LoginRedux from './views/login_redux';
-import configureStore from './store';
-
-const store = configureStore();
+import { LoginState } from './views';
 
 class App extends Component {
     render() {
         return (
-            <Provider store={store} style={styles.container} >
-                <LoginRedux
+            <View style={styles.container}>
+                <LoginState
                     message='About to start log in page'
                 />
-            </Provider>
+            </View>
         );
     }
 }
